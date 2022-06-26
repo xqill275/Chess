@@ -1,0 +1,23 @@
+TODO:
+  - move validation
+  - start chess ai
+      - min max algorithm
+      - alpha beat pruning 
+  - fix bugs
+  - add a undo button
+  - add rules
+    - en passant
+    - castling
+ 
+ BUGS I KNOW OF:
+  - the users can move any pieces they want
+  - movement of pieces do not follow any rules
+  - if a user clicks on a blank square and then a piece, the picece will disapear
+  
+ 
+ DONE:
+ display board
+ display piecese
+ allow pieces to move
+ chnages are now updated to the chess engine
+ 
